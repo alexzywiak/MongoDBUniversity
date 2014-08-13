@@ -1,0 +1,14 @@
+{
+  "name": "MongoDB Hello World",
+  "version": "0.0.1",
+  "description": "Where it always starts.  Using MongoDB",  
+  "author": "Alex Zywiak <alex.zywiak8@gmail.com>",
+  "repository" :
+    { "type" : "git",
+      "url" : "http://github.com/alexzywiak/mongodbuniversity"
+    },
+  "dependencies": {
+    "mongodb" : "*"
+    },
+  "engines": { "node": ">= 0.4.x" }
+}
